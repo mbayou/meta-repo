@@ -1,3 +1,16 @@
 {
-  "projects": {}
+  "projects": {
+    "meta-stats": "git@github.com:mbayou/meta-stats.git",
+    "meta-chat": "git@github.com:mbayou/meta-chat.git",
+    "meta-ambassador": "git@github.com:mbayou/meta-ambassador.git",
+    "meta-prospect": "git@github.com:mbayou/meta-prospect.git",
+    "meta-university": "git@github.com:mbayou/meta-university.git",
+    "meta-user": "git@github.com:mbayou/meta-user.git",
+    "meta-clock-utils": "git@github.com:mbayou/meta-clock-utils.git",
+    "meta-calendar-utils": "git@github.com:mbayou/meta-calendar-utils.git",
+    "meta-time-utils": "git@github.com:mbayou/meta-time-utils.git",
+    "meta-shared-component": "git@github.com:mbayou/meta-shared-component.git",
+    "meta-admin-front": "git@github.com:mbayou/meta-admin-front.git",
+    "meta-front": "git@github.com:mbayou/meta-front.git"
+  }
 }
